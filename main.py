@@ -38,3 +38,6 @@ def datainsert(ds: Result):
         "Threshold": threshold,
         "Result": result
     }
+
+
+    
